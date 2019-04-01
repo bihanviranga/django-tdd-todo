@@ -1,0 +1,5 @@
+To activate virtualenv run:
+source virtualenv/bin/activate
+
+To deactivate run:
+deactivate
